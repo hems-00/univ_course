@@ -1,0 +1,8 @@
+Design Thinking,Faculty-1: A. Smith - 7 years experience in teaching, Alumni rating: 4.2/5,Faculty-2: S. Tony Stark - 8 years experience in teaching, Alumni rating: 3.9/5,Faculty-3: M. Dwayne Johnson - 3 years experience in teaching, Alumni rating: 4.1/5,
+Machine learning, Faculty-1: R. Ali - 9 years experience in teaching, Alumni rating: 4.3/5, Faculty-2: E. Kim - 5 years experience in teaching, Alumni rating: 3.7/5, Faculty-3: T. Harry - 10 years experience in teaching, Alumni rating: 4.0/5,
+Data Science, Faculty-1: J. Santosh - 2 years experience in teaching, Alumni rating: 3.6/5, Faculty-2: C. Bruce - 11 years experience in teaching, Alumni rating: 4.4/5, Faculty-3: B. Jackson - 12 years experience in teaching, Alumni rating: 4.6/5,
+Applied Mathematics, Faculty-1: P. Jaish - 5 years experience in teaching, Alumni rating: 3.0/5, Faculty-2: L. Johnson - 4 years experience in teaching, Alumni rating: 3.8/5, Faculty-3: K. Shan Chi - 6 years experience in teaching, Alumni rating: 4.5/5,
+Robotics, Faculty-1: N. Gonzalez - 5 years experience in teaching, Alumni rating: 3.9/5, Faculty-2: D. Hemanth - 8 years experience in teaching, Alumni rating: 4.2/5, Faculty-3: H. Schmidt - 6 years experience in teaching, Alumni rating: 4.0/5, 
+Theoretical Physics, Faculty-1: A. Fernandez - 4 years experience in teaching, Alumni rating: 3.8/5, Faculty-2: G. Lewis - 7 years experience in teaching, Alumni rating: 4.3/5, Faculty-3: S. Martinez - 9 years experience in teaching, Alumni rating: 4.1/5, 
+Data Architecture, Faculty-1: L. Manoj - 3 years experience in teaching, Alumni rating: 3.7/5, Faculty-2: P. Gupta - 11 years experience in teaching, Alumni rating: 4.5/5, Faculty-3: E. Rodriguez - 10 years experience in teaching, Alumni rating: 4.4/5, 
+
